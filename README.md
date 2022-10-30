@@ -13,7 +13,7 @@ https://youtu.be/XAGthkn75c0
 
 ## Current released theme
 
-### simple-overlay
+### mania_simple_overlay
 <details><summary>Details</summary>
   
   #### normal mode : 
@@ -33,7 +33,7 @@ https://youtu.be/XAGthkn75c0
 >
 </details>
   
-### simple-leaderboard
+### mania_simple_leaderboard
 <details><summary>Details</summary>
   
   #### Screenshot:
@@ -56,7 +56,7 @@ https://youtu.be/XAGthkn75c0
 > - **B-Force (inteliser)** : for helping me to make "simple_leaderboard"
 </details>
 
-### simple-hitcount
+### mania_simple_hitcount
 <details><summary>Details</summary>
   
   #### Screenshot : 
@@ -66,7 +66,7 @@ https://youtu.be/XAGthkn75c0
 >
 </details>
 
-### now-playing
+### mania_nowplaying
 <details><summary>Details</summary>
   
   #### Screenshot : 
@@ -76,6 +76,7 @@ https://youtu.be/XAGthkn75c0
 >
 </details>
 
+### mania_simple_hiterror
 ### simple-hiterror (normal & colorful)
 <details><summary>Details</summary>
   
@@ -90,7 +91,7 @@ https://youtu.be/XAGthkn75c0
 >  - Calculating Tick : [TryZCustomOverlay](https://github.com/FukutoTojido/TryZCustomOverlay) (made by FukutoTojido)
 </details>
 
-### NPS-Chart
+### nps_chart
 <details><summary>Details</summary>
   
   #### Screenshot : 
@@ -102,7 +103,7 @@ https://youtu.be/XAGthkn75c0
 >  - ScoreV2 mode is recognized as a note when pressing and releasing LN.
 </details>
 
-### Normal Hitcount
+### mania_normal
 <details><summary>Details</summary>
   
   #### Screenshot : 
@@ -112,7 +113,7 @@ https://youtu.be/XAGthkn75c0
 >
 </details>
 
-### mania ingame (hiterror + hitcount)
+### mania_ingame (hiterror + hitcount)
 <details><summary>Details</summary>
   
   #### Screenshot : 
