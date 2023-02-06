@@ -14,7 +14,7 @@ let axios = window.axios;
 let uid = "";
 let contents = {};
 
-fetch("./setting/setting.json")
+fetch("./setting/setting.json" + "?t=" + Date.now().toString())
   .then(response => response.json())
   .then(json => Object.assign(contents, json));
 
